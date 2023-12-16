@@ -4,6 +4,49 @@
 - 20181624 신희관 
 - 20187098 이지형
 
+## 📜 서비스 내용
+캔위성 대회를 목표로 기계공학과와 협업하여 시작한 프로젝트입니다.  
+컴퓨터공학과가 아닌 다른 학과의 학생들이 위성 데이터를 확인하고 시각화 하는데 어려움이 있었습니다.  
+위성이 임무를 수행하며 수집한 데이터를 확인하기 위한 오픈소스 기반의 웹페이지를 구축하였습니다.
+  1. 센서값에 기반한 그래프 시각화 및 그래프 중첩을 통한 값 비교
+  2. 위성에서 보낸 사진을 시각화
+  3. 데이터 테이블을 만들어 모든 값들을 한번에 정리 가능
+     
+기계공학과 학생들과 지속적으로 대화하며 필요한 기능들을 구현하였습니다.  
+누구나 쉽게 사용 가능하도록 룰베이스 기반으로 프로젝트를 진행하였습니다.
+
+## 💻 Tech Stack
+<h4> Platforms & Languages </h4>
+<div align="left">
+	<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+    <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
+    <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+    <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
+	  <img src="https://img.shields.io/badge/jpa-745671?style=for-the-badge&logo=jpa&logoColor=white">
+    <img src="https://img.shields.io/badge/jdbc-256168?style=for-the-badge&logo=jdbc&logoColor=white">
+</div>
+
+<h4> Tools </h4>
+<div align=left>
+	<img src="https://img.shields.io/badge/Intellij%20IDE-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+	<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
+	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
+</div>
+
+## 💡 성장 경험
+### 비개발 직군과의 협업
+데이터를 보기 쉽게 시각화하고 정리하는데 어려움이 있는 비개발 직군과 지속적으로 소통하며 원하는 기능들을 추가하고 개발자 입장에서의 의견도 주면서 서로 성장하는 경험을 얻었습니다. 각자의 입장을 이해하고 비개발자의 시선으로 프로젝트를 보는 좋은 경험이였습니다.
+
+### 프론트엔드 환경 경험
+부트스트랩을 기반으로 프론트엔드 환경을 경험하며 백엔드와 프론트엔드의 연결을 깊게 이해할 수 있었습니다. 또한 서버에서 처리하는게 효율적인지 웹에서 처리하는게 효율적인지 모두 생각하며 좀 더 넓은 시각을 가지게 되었습니다.
+
+---
+---
+---
 ## <u>Teamate</u> Project Background
 - ### 필요성 및 문제점
   - 캔위성 대회를 수행하기 위해서는 캔위성을 개발하고 개발된 캔위성을 수 백미터 고도로 상승 시키고, 캔위성을 낙하시키면서, 수행된 임무데이터를 수신하는 과정이 필요함
@@ -36,29 +79,6 @@
 
   - ### Web Visualize sensor data
     ![실제 사진](https://github.com/jihyung2/Simulation_Engine_for_Web-Based_Simulation_Environments/assets/108830942/3f8c0f9f-dc67-4c6e-aff4-4e92cc43924c)
-
-## 💻 Tech Stack
-<h4> Platforms & Languages </h4>
-
-<div align="left">
-	<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-    <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
-    <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-    <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
-	  <img src="https://img.shields.io/badge/jpa-745671?style=for-the-badge&logo=jpa&logoColor=white">
-    <img src="https://img.shields.io/badge/jdbc-256168?style=for-the-badge&logo=jdbc&logoColor=white">
-</div>
-
-<h4> Tools </h4>
-<div align=left>
-	<img src="https://img.shields.io/badge/Intellij%20IDE-000000?style=flat&logo=intellijidea&logoColor=white" />
-	<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-</div>
   
 ## Conclusion
   - 위성으로부터 수신한 데이터를 처리해야하는 지상국 서버는 오픈소스를 목표로 확장 가능하도록 제작
