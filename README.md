@@ -44,6 +44,11 @@
 ### 프론트엔드 환경 경험
 부트스트랩을 기반으로 프론트엔드 환경을 경험하며 백엔드와 프론트엔드의 연결을 깊게 이해할 수 있었습니다. 또한 서버에서 처리하는게 효율적인지 웹에서 처리하는게 효율적인지 모두 생각하며 좀 더 넓은 시각을 가지게 되었습니다.
 
+## 👀 서비스 화면
+<img width="1440" alt="스크린샷 2023-12-12 오후 5 22 03" src="https://github.com/HG-Shin/Capstone23_ChatBot/assets/124351914/f036037b-c346-443e-a110-259d1aed08e6">
+<img width="1166" alt="스크린샷 2023-12-12 오후 5 22 28" src="https://github.com/HG-Shin/Capstone23_ChatBot/assets/124351914/a2e440ac-3568-4c20-b7ad-23367c16a8fa">
+<img width="669" alt="스크린샷 2023-12-12 오후 5 24 56" src="https://github.com/HG-Shin/Capstone23_ChatBot/assets/124351914/d9385701-0076-4800-9620-50dbc63a7ea9">
+
 ---
 ---
 ---
