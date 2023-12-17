@@ -64,27 +64,36 @@
   - ### CanSat
     - 발사 및 임무 운용에 필요한 위성 구성요소를 단순하게 구성하여 고공에서 짧은 시간동안 위성처럼 운용하는 특징을 가진 초소형 위성
       
-    <img width="386" alt="스크린샷 2023-12-04 오후 4 20 05" src="https://github.com/jihyung2/github/assets/108830942/c769376d-b320-4e3e-8ba8-c824c0a6efdc">
-    
+     ![1_can](https://github.com/jihyung2/sat_simulation/assets/108830942/4bcd0d66-ae46-4e0f-aa1f-adb48575ec65)
+
   - ### System Requirements
     - 시뮬레이션을 활용하여 센서부에서 위성 서버로 들어오는 데이터를 가상화
     - 지상국 오픈소스 SW를 목표로, 확장 가능 형태 개발
 
-  - ### Can Development Process
-<img width="1105" alt="스크린샷 2023-12-04 오후 4 19 52" src="https://github.com/jihyung2/github/assets/108830942/f8db8e87-52f3-4af4-a956-34d9c99f20ce">
+  - ### Can Development
+![2_pro](https://github.com/jihyung2/sat_simulation/assets/108830942/a72027a2-a85b-4ef8-958f-851dedf2fc5a)
     
-  - ### System Architecture
-<img width="588" alt="스크린샷 2023-12-04 오후 4 20 21" src="https://github.com/jihyung2/github/assets/108830942/5a1a5226-f149-4c33-a0de-6595f7056eb6">
+![3_sys](https://github.com/jihyung2/sat_simulation/assets/108830942/7e4958fc-80ce-4e26-bbff-6b383c6ef0e8)
 
-  - ### Data Flow
-![dataflow](https://github.com/jihyung2/Simulation_Engine_for_Web-Based_Simulation_Environments/assets/108830942/31579ebd-cd15-4169-bed6-7142f9fc6ceb)
+![4_flow](https://github.com/jihyung2/sat_simulation/assets/108830942/d4dafc8c-945e-45df-a98b-aa6b4158e9b1)
 
-  - ### Proposed Method
-<img width="824" alt="스크린샷 2023-12-04 오후 4 20 48" src="https://github.com/jihyung2/github/assets/108830942/83610b4c-1d81-4f79-82c6-22bbfdb9a1f5">
+![5_method](https://github.com/jihyung2/sat_simulation/assets/108830942/2eba2648-5d65-4bba-be3b-d0939cb7d867)
 
-  - ### Web Visualize sensor data
-    ![실제 사진](https://github.com/jihyung2/Simulation_Engine_for_Web-Based_Simulation_Environments/assets/108830942/3f8c0f9f-dc67-4c6e-aff4-4e92cc43924c)
-  
+![6_vis](https://github.com/jihyung2/sat_simulation/assets/108830942/2344afb5-d75a-41a0-bc18-aa99fb57772c)
+
+![7_sina](https://github.com/jihyung2/sat_simulation/assets/108830942/c8678082-9674-4d0d-9b61-67c7a0f64e16)
+
+## 추가 기능
+  ![8_graph](https://github.com/jihyung2/sat_simulation/assets/108830942/19393411-8a83-462a-8cd9-18d82c30ee44)
+
+  ![9_database](https://github.com/jihyung2/sat_simulation/assets/108830942/3e1bc75b-dd9d-4fa4-9b5f-4f4854ccca28)
+
+  ![10_can](https://github.com/jihyung2/sat_simulation/assets/108830942/661dc27b-7597-4cde-8d42-c05177b6ed4c)
+
+  ![10_user](https://github.com/jihyung2/sat_simulation/assets/108830942/811ce958-48d2-4331-a4f3-e9624e9a86f9)
+
+  ![11_sidebar](https://github.com/jihyung2/sat_simulation/assets/108830942/14605c23-696e-480a-b9c3-9236b88fe50f)
+
 ## Conclusion
   - 위성으로부터 수신한 데이터를 처리해야하는 지상국 서버는 오픈소스를 목표로 확장 가능하도록 제작
   - 캔 위성의 고도를 고려하여 통신 프로토콜 및 산업용 블루투스 연결 방식의 근거리 무선 통신 방식 채택
@@ -92,11 +101,20 @@
   
 ## Project Outcome
 - ### 2023년 시뮬레이션 학회 논문
-![오픈소스 기반 캔위성 개발 키트를 위한 시뮬레이션 모델 및 환경_이지형001](https://github.com/jihyung2/Simulation_Engine_for_Web-Based_Simulation_Environments/assets/108830942/7555e017-441b-43c4-ad50-8d00dd1bb8a8)
-![오픈소스 기반 캔위성 개발 키트를 위한 시뮬레이션 모델 및 환경_이지형002](https://github.com/jihyung2/Simulation_Engine_for_Web-Based_Simulation_Environments/assets/108830942/43b4d61d-a172-41d0-9a96-eb6915381039)
+![12_front](https://github.com/jihyung2/sat_simulation/assets/108830942/3037a018-80fe-4a6c-aef7-0a1aca37536b)
+
+![13_front2](https://github.com/jihyung2/sat_simulation/assets/108830942/9363b866-1a53-4f95-a864-7249efb0f29a)
 
 - ### 시뮬레이션 학회 추계학술대회 경진대회 참가 확인서
-![이지형_시뮬학회 참가확인서_page-0001](https://github.com/jihyung2/github/assets/108830942/8d1bb657-37b2-4fff-bd5d-0f60be6af0ea)
+![14_hak](https://github.com/jihyung2/sat_simulation/assets/108830942/4a387928-3d2b-4a35-a76b-fb68b245b3ff)
+
+
+- ### 시뮬레이션 학회 경진대회, 장려상 수상
+![15_bal](https://github.com/jihyung2/sat_simulation/assets/108830942/66780aef-e647-45b4-ab2f-cb8d9b6ef8fd)
+
+![16_sang](https://github.com/jihyung2/sat_simulation/assets/108830942/36814e96-8e1a-4ff6-af9f-d82778cc5d36)
+
+
 
 ## 개발 과정
 
