@@ -11,5 +11,3 @@ public class BootstrapController {
         return "index";
     }
 }
-
-// 프론트와 관련한 추가적인 url 여기 작성
